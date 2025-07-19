@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rizkya Salsabila</h1>
 <h3 align="center">An Informatics Engineering student at Politeknik Negeri Malang</h3>
-
+https://www.kaggle.com/datasets/ishanshrivastava28/superstore-sales
 <p align="center">
   <img src="https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif" alt="Coding Animation" width="800" height="400">
 </p>
